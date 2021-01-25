@@ -39,7 +39,7 @@ class MateriFlexBox extends Component {
           />
           <View>
             <Text style={{fontSize: 20, fontWeight: 'bold'}}>
-              Hijrah Assalam
+              Hijrah Assalam X
             </Text>
             <Text>100rb Subscriber</Text>
           </View>
